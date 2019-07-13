@@ -6,7 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\""
   },
-  "keywords": ["iframes", "prevent parent"],
+  "keywords": [
+    "iframes",
+    "prevent parent"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/rgruesbeck/prevent-parent.git"
